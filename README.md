@@ -11,4 +11,3 @@
   <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-![Snake Animation](https://github.com/thiagoluzvilv/blob/output/github-contribution-grid-snake.svg)
